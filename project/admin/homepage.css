@@ -1,0 +1,28 @@
+#header
+{
+	font-size:40px;
+	height:10%;
+	width:100%;
+	background-color:black;
+	color:white;
+}
+#news
+{
+	height:76%;
+	width:20%;
+	float:left;
+	background-color:black;
+	color:white;
+}
+#content
+{
+	height:76%;
+	width:80%;
+}
+#footer
+{
+	clear:both;
+	background-color:black;
+	color:white;
+	height:8%;
+}

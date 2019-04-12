@@ -1,0 +1,17 @@
+#header
+{
+	height:8%;
+	width:100%;
+	background-color:black;
+	color:white;
+}
+#content
+{
+	height:76%;
+	width:80%;
+}
+select
+{
+	width:68%;
+	
+}
